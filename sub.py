@@ -1,2 +1,3 @@
-print ("a-b")
-Print ("helooooo")
+Print ('hello amu ')
+for i in range(5):
+    print('amu')
